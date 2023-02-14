@@ -1,0 +1,4 @@
+name: 'Custom Restful Services'
+type: module
+description: 'Custom Restful Services'
+core_version_requirement: ^9 || ^10
